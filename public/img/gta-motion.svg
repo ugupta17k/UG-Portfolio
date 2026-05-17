@@ -1,0 +1,15 @@
+<svg width="1200" height="720" viewBox="0 0 1200 720" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="720" rx="36" fill="#140A0A"/>
+  <rect x="58" y="58" width="1084" height="604" rx="30" fill="#1F1111" stroke="#4B1D1D"/>
+  <rect x="116" y="116" width="968" height="488" rx="26" fill="url(#paint0_linear)"/>
+  <rect x="116" y="632" width="220" height="10" rx="5" fill="#F59E0B"/>
+  <text x="116" y="98" fill="#FDE68A" font-family="Arial, sans-serif" font-size="40" font-weight="700">GTA V Motion Interface</text>
+  <text x="116" y="670" fill="#FDE68A" font-family="Arial, sans-serif" font-size="28">3D frontend experiment with cinematic transitions and game-inspired UI</text>
+  <defs>
+    <linearGradient id="paint0_linear" x1="160" y1="120" x2="1030" y2="566" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F97316"/>
+      <stop offset="0.45" stop-color="#DC2626"/>
+      <stop offset="1" stop-color="#111827"/>
+    </linearGradient>
+  </defs>
+</svg>

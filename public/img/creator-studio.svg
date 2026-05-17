@@ -1,0 +1,10 @@
+<svg width="1200" height="720" viewBox="0 0 1200 720" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="720" rx="36" fill="#170C1F"/>
+  <rect x="56" y="56" width="1088" height="608" rx="30" fill="#22112E" stroke="#6B21A8"/>
+  <rect x="110" y="118" width="700" height="486" rx="24" fill="#581C87"/>
+  <rect x="846" y="118" width="244" height="150" rx="20" fill="#7E22CE"/>
+  <rect x="846" y="292" width="244" height="150" rx="20" fill="#A855F7"/>
+  <rect x="846" y="466" width="244" height="138" rx="20" fill="#C084FC"/>
+  <text x="110" y="96" fill="#F3E8FF" font-family="Arial, sans-serif" font-size="40" font-weight="700">Creator Studio</text>
+  <text x="110" y="646" fill="#E9D5FF" font-family="Arial, sans-serif" font-size="28">Future project: dashboard for content planning, publishing and analytics</text>
+</svg>

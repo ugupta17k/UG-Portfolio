@@ -1,0 +1,10 @@
+<svg width="1200" height="720" viewBox="0 0 1200 720" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="720" rx="36" fill="#04130D"/>
+  <rect x="60" y="60" width="1080" height="600" rx="30" fill="#0A1F18" stroke="#14532D"/>
+  <rect x="112" y="126" width="976" height="194" rx="24" fill="#14532D"/>
+  <rect x="112" y="352" width="304" height="232" rx="24" fill="#166534"/>
+  <rect x="448" y="352" width="304" height="232" rx="24" fill="#15803D"/>
+  <rect x="784" y="352" width="304" height="232" rx="24" fill="#22C55E"/>
+  <text x="112" y="102" fill="#DCFCE7" font-family="Arial, sans-serif" font-size="40" font-weight="700">CampusFlow</text>
+  <text x="112" y="628" fill="#BBF7D0" font-family="Arial, sans-serif" font-size="28">Future project: student tasks, clubs, schedules and campus updates in one place</text>
+</svg>
